@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(209, 204, 189);
+}
+.colorbox{
+    width: 500px;
+    height: 25px;
+}
+.img{
+    height:410px;
+    width: 12rem;
+}
+p{
+    font-weight: bold;
+}
